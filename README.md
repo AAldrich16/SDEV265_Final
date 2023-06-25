@@ -12,7 +12,11 @@ Activate the virtualenv for your project.
 Install project dependencies:
 
     $ pip3 install django
-    
+
+
+Enter the "mysite" directory:
+
+    $ cd mysite
     
 Then simply apply the migrations:
 
